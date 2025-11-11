@@ -6,14 +6,14 @@
     "description": "Randomization extensions for collections",
     "keywords": [],
     "category": "Scripting",
-    "dependencies": { },
+    "dependencies": {},
     "author": {
-      "name": "Freakshow Studio AS",
-      "url": "https://github.com/freakshowstudio"
+        "name": "Freakshow Studio AS",
+        "url": "https://github.com/freakshowstudio"
     },
     "repository": {
-      "type": "git",
-      "url": "https://github.com/freakshowstudio/com.freakshowstudio.collection-randomization"
+        "type": "git",
+        "url": "https://github.com/freakshowstudio/com.freakshowstudio.collection-randomization"
     },
     "license": "MIT"
 }
